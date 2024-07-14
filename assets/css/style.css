@@ -242,7 +242,7 @@ h6 {
 #hero {
   width: auto;
   height: 100vh;
-  background: url(".../assets/img/jp grad.jpg") top center;
+  background: url("../img/jp grad.jpg") top center;
   background-size: cover;
 }
 
