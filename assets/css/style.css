@@ -241,8 +241,8 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: auto;
-  height: auto;
-  background: url("../img/jp grad.jpg") top center;
+  height: 100vh;
+  background: url("../img/jp grad_batcheditor_fotor.jpg") top center;
   background-size: cover;
 }
 
